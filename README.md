@@ -13,11 +13,8 @@
 
     🚀 Focused on building real-time, scalable systems that deliver performance and reliability
 
-    💬 Ask me anything about the tech ecosystem — from backend architecture to UI/UX integration
+    📫 Reach me at: bennycive@gmail.com
 
-    📫 Reach me at: benjaminiathanas@gmail.com
-
-    😄 Pronouns: He/Him 
 
     
 #
