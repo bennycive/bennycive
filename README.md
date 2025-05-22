@@ -1,9 +1,42 @@
  
- 
+ # <a href="#"> Computer Enginear | Backend Developer | Api Design </a>
+
+### 👋 Welcome to my GitHub
+
+I'm **Benjamini Athanas**, a passionate **Backend developer**,committed to building meaningful digital experiences.
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on projects at **Afrigotech**
+- 🌱 Currently learning **Java (Spring Boot)** and **Angular**
+- 👯 Open to collaborating on **hybrid technology projects**
+- 🤔 I’m seeking growth and support in building real-time, scalable systems
+- 💬 Ask me anything about the **TechSphere** — from backend systems to UI/UX design
+- 📫 Reach me: **benjaminiathanas@gmail.com**
+- 😄 Pronouns: **He/Him**
+
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** Java, JavaScript, TypeScript, PHP
+- **Frameworks:** Spring Boot, Angular, React, Laravel, Node.js
+- **Design:** Figma, Adobe XD, Photoshop, Illustrator
+- **Databases:** MySQL, PostgreSQL, MariaDB
+- **Tools:** Git, Docker, Postman, Linux (Ubuntu/Kali), Nginx
+- **Extras:** OAuth2, REST APIs, GraphQL, WebSockets, Redis, Kafka
+
+---
+
+> 💡 _“Code with purpose. Design with clarity. Collaborate with impact.”_
+
  
  
 #
-# I BENJAMINI ATHANAS
+# My Activity
 
 [![Ashutosh's github activity
 graph](https://github-readme-activity-graph.vercel.app/graph?username=bennycive&bg_color=0d1117&color=5f9ea0&line=00ffff&area_color=008080&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
