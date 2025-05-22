@@ -1,15 +1,9 @@
  
-👋 Welcome to my GitHub
+    👋 Welcome to my GitHub
 
      I'm Benjamini Athanas, a passionate Backend Developer committed to building impactful and scalable digital solutions.
-  
-     🚀 About Me
-
+ 
     🔭 Currently working on projects at Afrigotech
-
-    🌱 Expanding my skills in Java (Spring Boot) and Angular
-
-    👯 Open to collaboration on hybrid and cross-platform technology projects
 
     🚀 Focused on building real-time, scalable systems that deliver performance and reliability
 
