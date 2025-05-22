@@ -1,21 +1,25 @@
  
- # <a href="#"> Computer Enginear | Backend Developer </a>
+👋 Welcome to my GitHub
 
-### 👋 Welcome to my GitHub
+     I'm Benjamini Athanas, a passionate Backend Developer committed to building impactful and scalable digital solutions.
+  
+     🚀 About Me
 
-I'm **Benjamini Athanas**, a passionate **Backend developer**,committed to building meaningful digital experiences.
+    🔭 Currently working on projects at Afrigotech
 
-### 🚀 About Me
+    🌱 Expanding my skills in Java (Spring Boot) and Angular
 
-- 🔭 I’m currently working on projects at **Afrigotech**
-- 🌱 Currently learning **Java (Spring Boot)** and **Angular**
-- 👯 Open to collaborating on **hybrid technology projects**
-- 🤔 I’m seeking growth and support in building real-time, scalable systems
-- 💬 Ask me anything about the **TechSphere** — from backend systems to UI/UX design
-- 📫 Reach me: **benjaminiathanas@gmail.com**
-- 😄 Pronouns: **He/Him**
+    👯 Open to collaboration on hybrid and cross-platform technology projects
 
- 
+    🚀 Focused on building real-time, scalable systems that deliver performance and reliability
+
+    💬 Ask me anything about the tech ecosystem — from backend architecture to UI/UX integration
+
+    📫 Reach me at: benjaminiathanas@gmail.com
+
+    😄 Pronouns: He/Him 
+
+    
 #
 # My Activity
 
