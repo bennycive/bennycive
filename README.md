@@ -1,11 +1,9 @@
  
- # <a href="#"> Computer Enginear | Backend Developer | Api Design </a>
+ # <a href="#"> Computer Enginear | Backend Developer </a>
 
 ### 👋 Welcome to my GitHub
 
 I'm **Benjamini Athanas**, a passionate **Backend developer**,committed to building meaningful digital experiences.
-
----
 
 ### 🚀 About Me
 
@@ -17,23 +15,6 @@ I'm **Benjamini Athanas**, a passionate **Backend developer**,committed to build
 - 📫 Reach me: **benjaminiathanas@gmail.com**
 - 😄 Pronouns: **He/Him**
 
-
----
-
-### 🛠 Tech Stack
-
-- **Languages:** Java, JavaScript, TypeScript, PHP
-- **Frameworks:** Spring Boot, Angular, React, Laravel, Node.js
-- **Design:** Figma, Adobe XD, Photoshop, Illustrator
-- **Databases:** MySQL, PostgreSQL, MariaDB
-- **Tools:** Git, Docker, Postman, Linux (Ubuntu/Kali), Nginx
-- **Extras:** OAuth2, REST APIs, GraphQL, WebSockets, Redis, Kafka
-
----
-
-> 💡 _“Code with purpose. Design with clarity. Collaborate with impact.”_
-
- 
  
 #
 # My Activity
